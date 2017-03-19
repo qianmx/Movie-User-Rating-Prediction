@@ -1,2 +1,3 @@
-# Movie-User-Rating-Prediction-using-Collaborative-Filtering
+# Movie-User-Rating-Prediction
+
 Implementing Collaborative Filtering for movie Ratings.
